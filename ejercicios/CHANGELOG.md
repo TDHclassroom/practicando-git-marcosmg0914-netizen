@@ -1,1 +1,4 @@
-# Changelog\n\n## v1.0.0\n- Proyecto inicial
+# Changelog
+
+## v1.0.0
+- Proyecto inicial
